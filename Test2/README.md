@@ -34,6 +34,8 @@ Android Studio中布局文件可使用拖动添加布局（较易）和编写代
 
 
 （4）文本更改为Hello Kotlin！效果图
+
+
 [![OPNdn1.png](https://img-blog.csdnimg.cn/img_convert/c07b855f73fac97bd843e89e8281a988.png)](https://imgtu.com/i/OPNdn1)
 
 
@@ -46,6 +48,8 @@ Android Studio中布局文件可使用拖动添加布局（较易）和编写代
 
 
 (7)为button(重新)设置text属性（可直接设置，这里使用映射到资源文件）具体方法为：点击文本，左侧出现灯泡状的提示，选择 Extract string resource弹出对话框，令资源名为random_button_text，并点击OK
+
+
 [![OPNDAK.png](https://img-blog.csdnimg.cn/img_convert/762803e4966d4ea7520f8b749f0c226f.png)](https://imgtu.com/i/OPNDAK)
 
 
@@ -54,6 +58,8 @@ Android Studio中布局文件可使用拖动添加布局（较易）和编写代
 
 
 （9）查看页面效果
+
+
 [![OPNshD.png](https://img-blog.csdnimg.cn/img_convert/99e0d069358cffb99e8b6a3ab9c40eca.png)](https://imgtu.com/i/OPNshD)
 
 
