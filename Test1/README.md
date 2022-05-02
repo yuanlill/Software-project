@@ -50,10 +50,20 @@ TensorFlow lite。
 [![L1f9qH.png](https://img-blog.csdnimg.cn/img_convert/6850ba020e699b7b8199237f548262e2.png)](https://imgtu.com/i/L1f9qH)
 [![L1fPZd.png](https://img-blog.csdnimg.cn/img_convert/ebbe28d9f35f7975b6f846499270b7b8.png)](https://imgtu.com/i/L1fPZd)
 [![L1fidA.png](https://img-blog.csdnimg.cn/img_convert/69aac0c1ba666169690c27f17d9a97e8.png)](https://imgtu.com/i/L1fidA)
+
+
 2、配置完环境变量后
+
+
 1）打开cmd
+
+
 2）输入 "conda list"
+
+
 3）出现与例图中一样则为配置成功
+
+
 [![L1fAit.png](https://img-blog.csdnimg.cn/img_convert/893b754b6226de3358b7240eca93d415.png)](https://imgtu.com/i/L1fAit)
 3、打开anaconda
 [![L1fEJP.png](https://img-blog.csdnimg.cn/img_convert/fb1c3e5f81da2b23a3fbbbced7f6a3f9.png)](https://imgtu.com/i/L1fEJP)
