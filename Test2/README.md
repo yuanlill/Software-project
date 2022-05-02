@@ -18,6 +18,8 @@ TensorFlow Lite
 [![OPN3kT.png](https://img-blog.csdnimg.cn/img_convert/1e099730780391324c373e20501e5bf2.png)](https://imgtu.com/i/OPN3kT)
 ### 2、查看Android Studio整体布局
 因之前学过移动开发故这步简单看过即可
+
+
 [![OPNYp4.md.png](https://img-blog.csdnimg.cn/img_convert/35ab34ec051ee53e88b4afa7a1cda7e7.png)](https://imgtu.com/i/OPNYp4)
 ### 3、创建模拟器，运行程序
 [![OPN8tU.png](https://img-blog.csdnimg.cn/img_convert/13de83c02557ee15772c357fe44babb8.png)](https://imgtu.com/i/OPN8tU)
@@ -29,18 +31,32 @@ Android Studio中布局文件可使用拖动添加布局（较易）和编写代
 [![OPNGhF.png](https://img-blog.csdnimg.cn/img_convert/7dc04b02236dc1591f58dc2958d59920.png)](https://imgtu.com/i/OPNGhF)
 （3）首先更改文本内容，点击文本，在右侧找到Commen Attributes，可更改字体大小、颜色、粗细等属性
 [![OPNUXR.png](https://img-blog.csdnimg.cn/img_convert/9dde532572dba416fc033756a13a1e27.png)](https://imgtu.com/i/OPNUXR)
+
+
 （4）文本更改为Hello Kotlin！效果图
 [![OPNdn1.png](https://img-blog.csdnimg.cn/img_convert/c07b855f73fac97bd843e89e8281a988.png)](https://imgtu.com/i/OPNdn1)
+
+
 （5）添加按钮：从左侧拖出按钮放置在屏幕中即可
 [![OPNw0x.png](https://img-blog.csdnimg.cn/img_convert/3fdc6e83bf7b69709a9550e3bd66e42f.png)](https://imgtu.com/i/OPNw0x)
+
+
 （6）可在Split的代码页面中看见我们新添加的按钮（button_first）
 [![OPN076.png](https://img-blog.csdnimg.cn/img_convert/e1e2c0b37528266531ca4d84f14bf3fb.png)](https://imgtu.com/i/OPN076)
+
+
 (7)为button(重新)设置text属性（可直接设置，这里使用映射到资源文件）具体方法为：点击文本，左侧出现灯泡状的提示，选择 Extract string resource弹出对话框，令资源名为random_button_text，并点击OK
 [![OPNDAK.png](https://img-blog.csdnimg.cn/img_convert/762803e4966d4ea7520f8b749f0c226f.png)](https://imgtu.com/i/OPNDAK)
+
+
 （8）添加第三个按钮，并调好位置关系，其中点击按钮或文字会出现弹簧状的“链条”，这个就是布局的约束，初学时可直接在Design页面进行添加和删除等，较为方便
 [![OPNrtO.png](https://img-blog.csdnimg.cn/img_convert/565f3c56ba49884feda25dccadb6d46b.png)](https://imgtu.com/i/OPNrtO)
+
+
 （9）查看页面效果
 [![OPNshD.png](https://img-blog.csdnimg.cn/img_convert/99e0d069358cffb99e8b6a3ab9c40eca.png)](https://imgtu.com/i/OPNshD)
+
+
 （10）再次调整后的最终页面效果（其中颜色可在Design页面调整也可在Code页面添加text-color属性）
 [![OPN69e.png](https://img-blog.csdnimg.cn/img_convert/e422b09eb91799d3d1bb0e7018523bb4.png)](https://imgtu.com/i/OPN69e)
 ## 完成应用程序交互
@@ -72,6 +88,8 @@ Android Studio中布局文件可使用拖动添加布局（较易）和编写代
     }
 ```
 效果图
+
+
 [![OPNWnI.png](https://img-blog.csdnimg.cn/img_convert/f4f09dac567ecdd2ab2af4e2c32a3758.png)](https://imgtu.com/i/OPNWnI)
 ## 完成导航与SafeArgs数据传输
 ### 1、完成第二界面样式
